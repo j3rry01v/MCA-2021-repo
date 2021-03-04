@@ -1,4 +1,4 @@
-/*purpose - to impliment stack using linked list */
+/*purpose - menu driven program to impliment stack using linked list */
 #include<stdio.h>
 #include<conio.h>
 

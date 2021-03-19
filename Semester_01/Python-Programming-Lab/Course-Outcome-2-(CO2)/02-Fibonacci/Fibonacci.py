@@ -1,6 +1,6 @@
 # purpose - Generate Fibonacci series of N terms
 def fibonacci(n):
-    a, b = 1, 1
+    a, b = 0, 1
     while a < n:
         print(a)
         a, b = b, a + b
@@ -8,3 +8,4 @@ def fibonacci(n):
 
 n = int(input("Enter the LIMIT"))
 fibonacci(n)
+

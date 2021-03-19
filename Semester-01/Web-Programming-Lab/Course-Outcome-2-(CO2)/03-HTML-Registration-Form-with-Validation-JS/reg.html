@@ -1,0 +1,124 @@
+<html>
+
+<head>
+    <title>Registration from</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div class="regform">
+        <h1>REGISTRATION FORM</h1>
+        <hr width="50%">
+        <div class="content">
+            <form name="reg_form" method="post" action="/reg.html" onsubmit="event.preventDefault(); validate()" autocomplete="off">
+                <div id="error"></div>
+                <div class="row">
+                    <label for="name">Name:</label><br>
+                </div>
+                <div class="row">
+                    <input type="text" name="name" id="name" onchange="remove();"><br>
+                </div>
+                <div id="ename"></div>
+
+                <div class="row">
+                    <label for="password">Password:</label><br>
+                </div>
+                <div class="row">
+                    <input placeholder="" type="password" name="password" id="pass" onchange="remove();"><br>
+                </div>
+                <div id="epass"></div>
+
+                <div class="row">
+                    <label for="password">Confirm Password:</label><br>
+                </div>
+                <div class="row">
+                    <input type="password" name="cpassword" id="cpass"  onchange="remove();"><br>
+                </div>
+
+                <div class="row">
+                    <label for="age">Age:</label><br>
+                </div>
+                <div class="row">
+                    <input type="text" name="age" id="age" onchange="remove();"><br>
+                </div>
+                <div id="eage"></div> 
+
+                <div class="row ">
+                    <label  for="gender">Gender:</label>
+                    <input class="radiobtn" name="gender" type="radio" value="male" onchange="remove();">
+                    <label   for="male">Male</label>
+                    <input class="radiobtn" name="gender" type="radio" value="female" onchange="remove();">
+                    <label   for="female">Female</label>
+                    <input class="radiobtn" name="gender" type="radio" value="other" onchange="remove();">
+                    <label   for="other">other</label><br>
+                </div>
+
+                <div class="row">
+                    <label for="address">Address:</label><br>
+                </div>
+                <div class="row">
+                    <textarea name="address" id="addr" cols="21" rows="5" onchange="remove();"></textarea><br>
+                </div>
+
+                <div class="row"></div>
+                <label for="ph">Phone:</label><br>
+                <div class="row"></div>
+                <span>+91<input type="tel" name="ph" onchange="remove();" id="phone" style="width:85%;"></span><br>
+                <div id="ephone"></div> 
+
+                <fieldset><legend>Please select atleast one</legend>
+                <div class="row">
+                    <label for="qualification">Latest qualification:</label><br>
+                </div>
+                <div class="row">
+                    <select name="qualification" id="qualification" onchange="remove();">
+                        <option>choose</option>
+                        <option value="SSLC">SSLC</option>
+                        <option value="PLUS TWO">PLUS TWO</option>
+                        <option value="DEGREE/DEPLOMA">DEGREE/DEPLOMA</option>
+                        <option value="PG">PG</option>
+                    </select><br>
+                </div>
+
+                <div class="row">
+                    <label for="nationality">Nationality:</label><br>
+                </div>
+                <div class="row">
+                    <select name="nationality" id="nationality" onchange="remove();">
+                        <option>choose</option>
+                        <option value="INDIA">INDIA</option>
+                        <option value="AUSTRALIA ">AUSTRALIA</option>
+                        <option value="AMERICA">AMERICA</option>
+                        <option value="UK">UK</option>
+                        <option value="EUROPE">EUROPE</option>
+                    </select><br>
+                </div>
+
+            </fieldset> 
+                <div class="row">
+                    <label for="courses">Course completed:</label>
+                </div>
+                <div class="row">
+                    <input class="checkbx" type="checkbox" name="courses" id="sslc" onchange="remove();">
+                    <label for="sslc">SSLC</label>
+                    <input class="checkbx" type="checkbox" name="courses" id="plustwo" onchange="remove();">
+                    <label for="plustwo">PLUS TWO</label>
+                    <input class="checkbx" type="checkbox" name="courses" id="degree" onchange="remove();">
+                    <label for="degree">DEGREE</label>
+                    <input class="checkbx" type="checkbox" name="courses" id="pg" onchange="remove();">
+                    <label for="pg">PG</label>
+                </div>
+
+                <div class="row" style="display: flex;flex-direction: row-reverse;">
+                    <input type="submit" value="Register" style="justify-content: end; margin:0 0 0 10px;">
+                    <input type="reset" value="clear" style="margin:0 0 0 10px;" onclick="remove();">
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,234 @@
+<html>
+
+<head>
+    <title>Registration from</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap" rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #66717F;
+            width: 100%;
+            height: 100vh;
+            padding-top: 4em;
+        }
+
+        .regform {
+            background: #2E3740;
+            color: #858f99;
+            margin: auto;
+            width: 50%;
+            border: 1px solid black;
+            box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+        }
+
+        .content {
+            margin: auto;
+            width: 60%;
+        }
+
+        h1 {
+            color: #6D7781;
+            font-family: 'Akaya Telivigala', cursive;
+            text-align: center;
+        }
+        legend{
+            color: #6D7781;
+            font-family: 'Akaya Telivigala', cursive;
+        }
+        label{
+            font-family: 'Akaya Telivigala', cursive;
+        }
+        /* caption {
+            margin-bottom: 2em;
+            font-size: larger;
+        } */
+
+        .first {
+            text-align: right;
+            width: 40%;
+        }
+
+        .button {
+            text-align: center;
+        }
+
+        /* table {
+            margin-top: 4em;
+            border-spacing: 1em;
+        }
+
+        tr {
+            padding: 5px;
+        } */
+
+        input {
+            padding: 5px 10px 5px 10px;
+            height: 2em;
+            border-radius: 5px;
+            border:1px solid #858f99;
+            background: #2E3740;
+            color: #858f99;
+        }
+        input[type="radio"],input[type="checkbox"]{
+            color: #2E3740;
+
+        }
+        fieldset{
+            border:1px solid #858f99;
+        }
+        select{
+            padding: 5px;
+            height: 2em;
+            border-radius: 5px;
+            border:1px solid #858f99;
+            background: #2E3740;
+            color: #858f99;
+        }
+        /* select#nationality{
+            background: #2E3740;
+            border-radius: 5px;
+            border:1px solid #858f99;
+            color:#858f99;
+        } */
+        textarea{
+            background: #2E3740;
+            padding: 5px;
+            border-radius: 5px;
+            border:1px solid #858f99;
+            color: #858f99;
+        }
+
+        input[type="submit"] {
+            margin-top: 3em;
+            width: 8em;
+            height:2.5em;
+            text-align: right;
+            text-align: center;
+            background-color: #1FCE6D;
+            cursor:pointer;
+            color:#2E3740;
+        }
+        input[type="text"],input[type="tel"],textarea,select{
+            width:90%;
+        }
+        .row{
+            margin-top: 0.5em;
+        }
+        .radiobtn{
+            position: relative;
+            top:8px;
+        }
+        .checkbx{
+            position: relative;
+            top:8px;
+        }
+        form{
+            margin-top: 1em;
+        }
+        /* span #phone{
+            border:none;
+        }
+        span{
+            border:1px solid black;
+        } */
+    </style>
+</head>
+
+<body>
+    <div class="regform">
+        <h1>REGISTRATION FORM</h1>
+        <hr width="50%">
+        <div class="content">
+            <form>
+                <div class="row">
+                    <label for="name">Name:</label><br>
+                </div>
+                <div class="row">
+                    <input type="text" name="name"><br>
+                </div>
+
+                <div class="row">
+                    <label for="age">Age:</label><br>
+                </div>
+                <div class="row">
+                    <input type="text" name="age"><br>
+                </div>
+
+                <div class="row ">
+                    <label  for="gender">Gender:</label>
+                    <input class="radiobtn" name="gender" type="radio" value="male" >
+                    <label   for="male">Male</label>
+                    <input class="radiobtn" name="gender" type="radio" value="female">
+                    <label   for="female">Female</label>
+                    <input class="radiobtn" name="gender" type="radio" value="other">
+                    <label   for="other">other</label><br>
+                </div>
+
+                <div class="row">
+                    <label for="address">Address:</label><br>
+                </div>
+                <div class="row">
+                    <textarea name="address" id="" cols="21" rows="5"></textarea><br>
+                </div>
+
+                <div class="row"></div>
+                <label for="ph">Phone:</label><br>
+                <div class="row"></div>
+                <span>+91<input type="tel" name="ph" id="phone" style="width:85%;"></span><br>
+
+                <fieldset><legend>Please select atleast one</legend>
+                <div class="row">
+                    <label for="qualification">Latest qualification:</label><br>
+                </div>
+                <div class="row">
+                    <select name="qualification" id="qualification">
+                        <option>choose</option>
+                        <option value="SSLC">SSLC</option>
+                        <option value="PLUS TWO">PLUS TWO</option>
+                        <option value="DEGREE/DEPLOMA">DEGREE/DEPLOMA</option>
+                        <option value="PG">PG</option>
+                    </select><br>
+                </div>
+
+                <div class="row">
+                    <label for="nationality">Nationality:</label><br>
+                </div>
+                <div class="row">
+                    <select name="nationality" id="nationality" >
+                        <option>choose</option>
+                        <option value="INDIA">INDIA</option>
+                        <option value="AUSTRALIA ">AUSTRALIA</option>
+                        <option value="AMERICA">AMERICA</option>
+                        <option value="UK">UK</option>
+                        <option value="EUROPE">EUROPE</option>
+                    </select><br>
+                </div>
+            </fieldset> 
+                <div class="row">
+                    <label for="courses">Course completed:</label>
+                </div>
+                <div class="row">
+                    <input class="checkbx" type="checkbox" name="sslc" id="sslc">
+                    <label for="sslc">SSLC</label>
+                    <input class="checkbx" type="checkbox" name="plus two" id="plustwo">
+                    <label for="plustwo">PLUS TWO</label>
+                    <input class="checkbx" type="checkbox" name="degree" id="degree">
+                    <label for="degree">DEGREE</label>
+                    <input class="checkbx" type="checkbox" name="pg" id="pg">
+                    <label for="pg">PG</label>
+                </div>
+
+                <div class="row" style="display: flex;flex-direction: row-reverse;">
+                    <input type="submit" value="submit" style="justify-content: end; margin:0 0 0 10px;">
+                    <input type="submit" value="clear" style="margin:0 0 0 10px;">
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>

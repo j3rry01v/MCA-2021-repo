@@ -1,0 +1,114 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Ravi+Prakash&display=swap');
+*
+{
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    width:100%;
+    height:100vh;
+    padding:0px;
+    margin:0px;
+    display: block;
+    background-color: #403552;
+
+}
+.header{
+    width: 100%;
+    height:100%;
+    margin: auto;
+} 
+.navbar{
+    height:70px;
+    position:sticky;
+    top:0px;
+}  
+h1{
+   text-align: center;
+   color:#FBD285;
+   font-family: 'Fascinate', cursive;
+   margin-top:5em;
+   letter-spacing: 3px;
+   font-size: 45px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+li{
+    list-style-type: none;
+    padding: 2em;
+    
+}
+a{
+    text-decoration: none;
+   color:#FBD285;
+    font-family: 'Fascinate', cursive;
+    font-family: 'Ravi Prakash', cursive;
+}
+a:hover{
+    color:#A981FF;
+    font-weight:bolder;
+}
+h2{
+    color:#989898;
+}
+.row{
+    display:flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 2em;
+}
+.content{
+    margin:1em;
+    padding: 1em;
+    width:30%;
+    height:210px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 5px;
+}
+.content:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    border:none;
+}
+h3{
+    color:#989898;
+}
+p{
+    color:#989898;
+}
+.container{
+    display:flex;
+    flex-direction:row;
+    width:100%;
+}
+.desc{
+    width: 45%;
+    margin:1.5em;
+    padding: 2em;
+}
+.example{
+    width:45%;
+    margin:1.5em;
+    padding:1em;
+    color:#989898;
+    border: 1px solid #989898;
+    border-radius: 5px;
+}
+.obj{
+    width: 60%;
+    margin: auto;
+    /* margin: 1.5em; */
+    border: 1px solid #989898;
+    border-radius: 5px;
+}
+dl{
+    margin: 2em 0 0 4em;
+}
+dd,dt{
+    margin-top:1.5em;
+}

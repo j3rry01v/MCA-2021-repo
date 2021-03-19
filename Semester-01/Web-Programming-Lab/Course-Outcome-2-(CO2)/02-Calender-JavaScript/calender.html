@@ -1,0 +1,32 @@
+<html lang="en">
+
+<head>
+    <title>Calender</title>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="selection">
+        <table class="tabselection" cellspacing="10" width="60%" align="center">
+            <caption id="cap"></caption>
+            <tbody>
+                <tr class="selrow">
+                    <td class="selcol" colspan="2" ><input id="year_get" type="number" placeholder="year"> </td>
+                </tr>
+                <tr>
+                    <td class="selcol" colspan="2" ><input id="month_get" type="number" placeholder="month"> </td>
+                </tr>
+                <tr class="selrow">
+                    <td colspan="2" class="selcol" ><input onclick="generate()" type="button" id="subtn"
+                            value="Generate Calender"> 
+                    <input type="reset" value="reset" id="resetbtn"
+                            onclick="location.reload();"> </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div id="content"> </div>
+</body>
+
+</html>

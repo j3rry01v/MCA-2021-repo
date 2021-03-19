@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #697d7c;
+  padding: 0;
+  margin: 0;
+}
+.header h2 {
+  color: #443131d4;
+  opacity: 0.4;
+}
+span {
+  color: #bd032b;
+}
+hr {
+  color: #425c5a;
+  opacity: 0.8;
+}
+.section {
+  display: flex;
+  width: 100%;
+  height: 50vh;
+  background-color: #697d7c;
+}
+.header {
+  margin-top: 12%;
+  margin-left: 8%;
+}
+.para {
+  background-color: #697d7c;
+  padding-bottom: 13em;
+}
+.para p {
+  margin: 0 15% 0 10%;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+}
+.infra {
+  background-color: #527775;
+  margin: 5px;
+  padding: 2px 2px 80px 2px;
+  display: box;
+}
+.infra h2 {
+  margin-top: 5em;
+}
+
+.container {
+  display: flex;
+  padding: 4em 10% 0 10%;
+}
+.container .first,
+.second {
+  margin: 2em;
+  width: 45%;
+  height: 17em;
+  padding: 2px 2em 2em 2em;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  overflow: auto;
+  background-color: #607d8b;
+}
+.container h3 {
+  margin-bottom: 2em;
+}
+.bottom {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 18em;
+  background-color: #425c5a;
+  align-items: flex-end;
+}
+.bottom address {
+  display: flex;
+  width: 30%;
+  height: 100%;
+  padding: 4em 2em 0 0;
+}

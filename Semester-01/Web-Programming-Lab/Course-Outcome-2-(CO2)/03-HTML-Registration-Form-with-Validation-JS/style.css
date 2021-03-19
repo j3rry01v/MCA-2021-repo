@@ -1,0 +1,121 @@
+* {
+  box-sizing: border-box;
+  font-family: "Akaya Telivigala", cursive;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #66717f;
+  width: 100%;
+  height: 100vh;
+  padding-top: 4em;
+}
+
+.regform {
+  background: #2e3740;
+  color: #858f99;
+  margin: auto;
+  width: 50%;
+  border: 1px solid black;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+    rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.content {
+  margin: auto;
+  width: 60%;
+}
+
+h1 {
+  color: #6d7781;
+  font-family: "Akaya Telivigala", cursive;
+  text-align: center;
+}
+legend {
+  color: #6d7781;
+  font-family: "Akaya Telivigala", cursive;
+}
+label {
+  font-family: "Akaya Telivigala", cursive;
+}
+
+.first {
+  text-align: right;
+  width: 40%;
+}
+
+.button {
+  text-align: center;
+}
+
+input {
+  padding: 5px 10px 5px 10px;
+  height: 2em;
+  border-radius: 5px;
+  border: 1px solid #858f99;
+  background: #2e3740;
+  color: #858f99;
+  text-transform: capitalize;
+}
+input[type="radio"],
+input[type="checkbox"] {
+  color: #2e3740;
+}
+fieldset {
+  border: 1px solid #858f99;
+}
+select {
+  padding: 5px;
+  height: 2em;
+  border-radius: 5px;
+  border: 1px solid #858f99;
+  background: #2e3740;
+  color: #858f99;
+}
+textarea {
+  background: #2e3740;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #858f99;
+  color: #858f99;
+}
+
+input[type="submit"],
+input[type="reset"] {
+  margin-top: 3em;
+  width: 8em;
+  height: 2.5em;
+  text-align: right;
+  text-align: center;
+  background-color: #1fce6d;
+  cursor: pointer;
+  color: #2e3740;
+}
+input[type="text"],
+input[type="tel"],
+input[type="password"],
+textarea,
+select {
+  width: 90%;
+}
+.row {
+  margin-top: 0.5em;
+}
+.radiobtn {
+  position: relative;
+  top: 8px;
+}
+.checkbx {
+  position: relative;
+  top: 8px;
+}
+form {
+  margin-top: 1em;
+}
+#ename,
+#epass,
+#error,
+#ephone {
+  color: #ec6161;
+  display: none;
+}

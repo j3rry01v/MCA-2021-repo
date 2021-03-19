@@ -1,0 +1,36 @@
+
+table {
+  margin-top: 2em;
+  padding: 2em;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+input[type="button"] {
+  margin-top: 0.5em;
+  width: 10em;
+  background-color: rgb(52, 148, 92);
+  padding: 0.5em 1em 0.5em 1em;
+  border-radius: 5px;
+}
+
+input[type="text"],
+input[type="number"] {
+  border-radius: 4px;
+  padding: 0 1em 0 1em;
+  border: 1px solid black;
+  height: 1.8em;
+}
+
+.math_result,
+.string_result {
+  display:none;
+  width: 50%;
+  padding: 2em;
+  align-items: center;
+  margin-left: 25%;
+  margin-top: 2em;
+  border: 1px solid rgb(61, 61, 61);
+  color: rgb(206, 200, 200);
+  background-color: rgb(71, 71, 71);
+  border-radius: 4px;
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Event Handling</title>
+</head>
+<body>
+    <div class="container" onmouseover="changeImage()" onmouseout="removeImage()">
+        <div class="content">
+            <div class="spotlight" id="spotlight">
+                <h1 id="heading">SPOTLIGHT</h1>
+                <p id="para">A lamp whose beam can be directed, or a circle of light produced by such a lamp</p>
+            </div>
+            <div class="image" id="image">
+            </div>
+        </div>
+    </div>
+    <script>
+        const changeImage=()=>{
+            document.getElementById("image").style.backgroundImage="url(./spotlight.jpg)"
+            document.getElementById("image").style.height="76vh"
+            document.getElementById("image").style.width="55%"
+            document.getElementById("heading").style.fontSize="70px"
+            document.getElementById("spotlight").style.width="45%"
+            document.getElementById("para").style.display="block"
+            document.getElementById("heading").style.color="rgb(50 193 107)"
+
+        }
+        const removeImage=()=>{
+            var img = document.getElementById("image")
+            document.getElementById("image").style.height="60vh"
+            document.getElementById("image").style.width="65%"
+            document.getElementById("heading").style.fontSize="60px"
+            document.getElementById("spotlight").style.width="35%"
+            img.style.backgroundImage="url(./spotlight_main.jpg)"
+            img.style.position = "right top"
+            document.getElementById("para").style.display="none"
+            document.getElementById("heading").style.color="#09b5bd"
+        }
+    </script>
+</body>
+</html>

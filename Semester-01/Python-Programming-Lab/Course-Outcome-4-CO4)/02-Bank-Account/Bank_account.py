@@ -33,10 +33,11 @@ class Bank:
         print("Account Number  🪙       :  ", self.__acc_no)
         print("Account Type    💳      :  ", self.__acc_type)
         print("Account Balance is  💵    :  ", self.__acc_balance)
-    no = input("Enter Account number        : ")
-    atype = input("Enter Account type             : ")
-    bal = int(input("Enter Account initial balance : "))
-    holder = Bank(name, no, atype, bal)
+    def main (self) :
+         a_no = input("Enter Account number        : ")
+         a_name = input("Enter Account holder name :")
+         a_balance = int(input("Enter Account initial balance : "))
+    holder = Bank (a_name, a_no, atype, bal)
 
     while True:
         print("\n ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖\n")
@@ -55,9 +56,9 @@ class Bank:
             print("Invalid Option !")
 
 
-# if __name__ == "__main__":
-#     while True:
-#         main()
+if __name__ == "__main__":
+    while True:
+        main()
 
 
 

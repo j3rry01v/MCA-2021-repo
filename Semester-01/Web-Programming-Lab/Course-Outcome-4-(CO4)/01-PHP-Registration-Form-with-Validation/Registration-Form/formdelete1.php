@@ -5,7 +5,7 @@
 <center>
 <?php
 include_once'conn.php';
-$sql="SELECT * FROM abcd123";
+$sql="SELECT * FROM registration";
 $result=mysqli_query($conn,$sql);
   if(mysqli_num_rows($result)>0)
 {

@@ -5,7 +5,7 @@
 <?php
 include_once 'conn.php';
 $rid=$_POST['id'];
-$sql="DELETE FROM abcd123 WHERE id='$rid'";
+$sql="DELETE FROM registraton WHERE id='$rid'";
 if(mysqli_query($conn,$sql))
 {
 echo "Record Deleted Succesfully";

@@ -13,7 +13,7 @@ $gen=$_POST['gender'];
 $em=$_POST['email'];
 $ph1=$_POST['code'];
 $ph2=$_POST['phno'];
-$sql="UPDATE abcd123 SET
+$sql="UPDATE registration SET
 Name='$fname',Password='$pass',Gender='$gen', Email='$em',Phonenumber='$ph1'
 Phonenumber='$ph2' where frmid='$uid'";
 if(mysqli_query($conn,$sql))

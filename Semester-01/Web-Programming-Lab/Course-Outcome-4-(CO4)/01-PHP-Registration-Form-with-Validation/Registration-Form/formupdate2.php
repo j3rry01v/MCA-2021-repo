@@ -10,7 +10,7 @@
 <?php
 include_once 'conn.php';
 $rid = $_POST['id'];
-$sql = "SELECT * FROM abcd123 where id='$rid'";
+$sql = "SELECT * FROM registration where id='$rid'";
 $result=mysqli_query($conn,$sql);
 	
 		if (mysqli_num_rows($result) > 0) 

@@ -14,7 +14,7 @@ $gen=$_POST['gender'];
 $em=$_POST['email'];
 $ph1=$_POST['code'];
 $ph2=$_POST['phno'];
-$sql="INSERT INTO abcd123(uname,pass,gender,email,code,phno)VALUES('$uname','$pass','$gen','$em','$ph1','$ph2')";
+$sql="INSERT INTO registration(uname,pass,gender,email,code,phno)VALUES('$uname','$pass','$gen','$em','$ph1','$ph2')";
 if(mysqli_query($conn,$sql))
 {
 echo "record created Succesfully";

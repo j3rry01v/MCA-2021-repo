@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div id="container">
+        <div id="info" align="center">
+            <lable for="name">Enter your name:</lable>
+            <input type="text" id="name">
+            <button id="submit" type="submit" value="Save" onclick="next()" style="margin-left:2em;">Submit</button>
+        </div>
+        <div id="question" style="display:none;">
+            <div id="qt">
+                <p id="qst"></p>
+            </div>
+            <div id="radio">
+                <div class="option">
+                    <input type="radio" name="ans" value="A" id="A">
+                    <label for="option" id="a"></label>
+                </div>
+                <div class="option">
+                    <input type="radio" name="ans" value="B" id="B">
+                    <label for="option" id="b"></label>
+                </div>
+                <div class="option">
+                    <input type="radio" name="ans" value="C" id="C">
+                    <label for="option" id="c"></label>
+                </div>
+                <div class="option">
+                    <input type="radio" name="ans" value="D" id="D">
+                    <label for="option" id="d"></label>
+                </div>
+            </div>
+            <div class="button">
+                <button id="submit" type="submit" value="Save" onclick="saveAnswer()">Save & Next</button>
+                <button id="reset" type="reset" value="reset">reset</button>
+            </div>
+        </div>
+        <div id="score_card">
+            <div id="name_last"></div>
+            <div id="score"></div>
+        </div>
+    </div>
+</body>
+
+</html>

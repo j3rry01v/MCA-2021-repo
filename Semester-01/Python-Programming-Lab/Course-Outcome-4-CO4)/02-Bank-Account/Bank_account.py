@@ -41,7 +41,7 @@ class Bank:
 
     while True:
         print("\n ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖\n")
-        opt = int(input("1)Deposit 💰 \n2)Withdraw 💸 \n3)Account info ℹ️ \n0)Exit\nChoose your option :: "))
+        opt = int(input("1)Deposit 💰 \n2)Withdraw 💸 \n3)Account info . ℹ️ \n0)Exit\nChoose your option :: "))
         print("\n ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ ❖ \n")
         if opt == 1:
             amount = int(input("Deposite amount : "))

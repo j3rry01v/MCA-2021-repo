@@ -4,10 +4,11 @@
   </head>
 
 <center>
-<body bgcolor="skyblue">
+<body bgcolor="#69807d">
 <br>
 <br>
-<h1><u>ELECTRCITY BILL</u></h3>
+<h1 >ELECTRCITY BILL</h3>
+
 <form action='' method="POST">
 <table>
  <tr>

@@ -6,10 +6,10 @@ header = ["place", "name", "age"]
 with open("city.csv", "w") as file:
     write = csv.DictWriter(file, fieldnames=header)
     write.writeheader()
-    write.writerow({"place": "vatakara", "name": "Samuel", "age": 21})
-    write.writerow({"place": "kainatty", "name": "Aswanth", "age": 21})
-    write.writerow({"place": "Tholikkode", "name": "Rojin", "age": 23})
-    write.writerow({"place": "Palakkaadu", "name": "Aleena", "age": 13})
+    write.writerow({"place": "Winterfell", "name": "Sansa", "age": 21})
+    write.writerow({"place": "Bravos", "name": "Arya", "age": 21})
+    write.writerow({"place": "Beyond wall", "name": "Robert", "age": 43})
+    write.writerow({"place": "Sydney", "name": "Alderson", "age": 33})
 with open("city.csv", "r") as file:
     read = csv.DictReader(file);
     n = input("Enter the column name you want(place,name,age):")

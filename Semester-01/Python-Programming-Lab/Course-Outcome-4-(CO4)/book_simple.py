@@ -1,6 +1,9 @@
-# # purpose -Create class publisher(name). Derive class Book from publisher with attrubutes title and auther .Derive class python
-# from Book with attributes price and no_of_pages . Write a program that displays information about a python book. Use
-# a base class constructor invocation and methode overriding
+"""
+Create class publisher(name). Derive class Book from publisher with attrubutes title and auther .Derive class python
+from Book with attributes price and no_of_pages . Write a program that displays information about a python book. Use
+a base class constructor invocation and methode overriding
+"""
+
 
 class Publisher:
     def __init__(self, publisher):

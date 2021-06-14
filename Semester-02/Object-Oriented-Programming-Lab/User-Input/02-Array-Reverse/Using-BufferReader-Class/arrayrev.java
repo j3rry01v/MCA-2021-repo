@@ -32,7 +32,7 @@ import java.io.*;
         {
             e.printStackTrace();
         }
-        int[] array = new int[10];
+        int[] array = new int[element_count];
         System.out.println("Now enter array elements ");
         for (int i = 0; i < element_count; i++) 
         {

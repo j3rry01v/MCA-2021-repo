@@ -85,9 +85,8 @@ public class matrixaddition
                 System.out.print(this.array[rc][cc] + "\t");
 
                 System.out.print(" ");
+                
                 flag = 1 ;
-
-
             }
             System.out.print(" ");
         }

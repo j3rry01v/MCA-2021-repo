@@ -37,14 +37,14 @@ public class matrixsymmetric
                 System.out.print(matrix[i][j]+"\t");
             }
              
-            System.out.println();
+            System.out.println("");
         }
          
         //Checking the input matrix for symmetric
          
         if(row_element != column_element)
         {
-            System.out.println("The given matrix is not square matrix, so it is not symmetric 😪");
+            System.out.println("The given matrix is not square matrix, so it is not symmetric ");
         }
         else
         {
@@ -64,14 +64,12 @@ public class matrixsymmetric
              
             if(symmetric)
             {
-                System.out.println("The given matrix is symmetric...");
+                System.out.println("\nThe given matrix is symmetric");
             }
             else
             {
-                System.out.println("The given matrix is not symmetric...");
+                System.out.println("\nThe given matrix is not symmetric");
             }
         }
-         
-        scan.close();
     }
 }

@@ -1,6 +1,6 @@
 # Course Outcome 1
-## Question 2
-Read 2 matrices from the console and perform matrix addition.
+## Question 4
+Read a matrix from the console and check whether it is symmetric or not.
 
 
 
@@ -8,11 +8,11 @@ Read 2 matrices from the console and perform matrix addition.
 
 
 ```sh
-javac matrixaddition.java
+javac matrixsymmetric.java
 ```
 
 ### Running the code:
 
 ```sh
-java matrixaddition
+java matrixsymmetric
 ```

@@ -69,8 +69,11 @@ public class matrixaddition
 
     public void display_Matrix()
     {
+        int  flag = 0;
+        if (flag ==1)
+        {
         System.out.println("Sum of the two matrix is..");
-
+        }
         int rc,cc;
 
         for(rc=0;rc<this.row_element;rc++)
@@ -79,9 +82,11 @@ public class matrixaddition
             
             for(cc=0;cc<this.column_element;cc++)
             {
-                System.out.print(this.array[rc][cc] );
+                System.out.print(this.array[rc][cc] + "\t");
 
                 System.out.print(" ");
+                flag = 1 ;
+
 
             }
             System.out.print(" ");
@@ -100,7 +105,7 @@ public class matrixaddition
         second.build_Matrix();
 
         temp = sum_Matrix(first,second);
-        
+
         temp.display_Matrix();
     }
 }

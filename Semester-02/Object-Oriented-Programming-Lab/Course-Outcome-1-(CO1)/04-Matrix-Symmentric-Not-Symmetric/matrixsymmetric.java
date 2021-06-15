@@ -44,7 +44,7 @@ public class matrixsymmetric
          
         if(row_element != column_element)
         {
-            System.out.println("The given matrix is not a square matrix, so it can't be symmetric.");
+            System.out.println("The given matrix is not square matrix, so it is not symmetric 😪");
         }
         else
         {

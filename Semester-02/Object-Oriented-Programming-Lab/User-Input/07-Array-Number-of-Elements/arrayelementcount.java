@@ -26,7 +26,7 @@ public class arrayelementcount
         //       if (array[i] != null)}
         //          counter ++;
         //     }
-        System.out.println("Number of Elements in array are " +element_count);
+        System.out.println("Number of Elements in array are " +element_count); // alt: 'array.length'
 
     }
 }

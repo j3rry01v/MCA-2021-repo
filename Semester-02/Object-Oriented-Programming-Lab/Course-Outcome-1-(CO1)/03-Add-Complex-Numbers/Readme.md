@@ -1,6 +1,6 @@
 # Course Outcome 1
-## Question 2
-Read 2 matrices from the console and perform matrix addition.
+## Question 3
+Add complex numbers
 
 
 
@@ -8,11 +8,11 @@ Read 2 matrices from the console and perform matrix addition.
 
 
 ```sh
-javac matrixaddition.java
+javac addComplex.java
 ```
 
 ### Running the code:
 
 ```sh
-java matrixaddition
+java addComplex
 ```

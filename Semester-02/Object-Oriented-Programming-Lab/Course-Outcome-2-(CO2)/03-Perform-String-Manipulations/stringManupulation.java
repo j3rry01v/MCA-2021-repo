@@ -52,14 +52,14 @@ public class StringManipulations
     public static void main(String[] args) 
     {
 		Scanner scan = new Scanner(System.in);
-		System.out.println("Enter a string ");
+		System.out.println("Enter a  string ");
         data =scan.nextLine();
 
 		while(true)
         {
 			System.out.println("1.To Uppercase");
 
-			System.out.println("2.To Lowercase");
+			System.out.println("2.To Lowercase ");
 
 			System.out.println("3.Replace Characters");
 

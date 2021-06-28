@@ -1,8 +1,8 @@
-![Open Source Society University (OSSU)](http://i.imgur.com/kYYCXtC.png)
 
-<h3 align="center">MCA -Master of Computer Applications</h3>
+
+<h3 align="center">MCA -Master of Computer Applications Repository </h3>
 <p align="center">
-  Path to a free self-taught education in Computer Science!
+
 </p>
 
 [comment]: <> (<p align="center">)
@@ -64,16 +64,16 @@ This repository is designed according to the degree requirements of course outco
    - ### [WEB PROGRAMMING LAB ](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Web-Programming-Lab)
      - [📁Course Outcome 1 (CO1)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co1-web.md)
      - [📁Course Outcome 2 (CO2)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co2-web.md)
-     - [📁Course Outcome 3 (CO3)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co4-web.md)
+     - [📁Course Outcome 3 (CO3)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co3-web.md)
      - [📁Course Outcome 4 (CO4)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co4-web.md)
      - [📁Course Outcome 5 (CO5)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co5-web.md)
       <br>
       <br>
        
   - ### [DATA STRUCTURES LAB  ](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab)
-      - [📁List of Programs ]()
-
-         
+      - [📁List of Programs ](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Ads/ADS.md)
+        
+## Semester II
          
 
 

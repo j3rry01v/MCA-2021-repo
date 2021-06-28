@@ -1,8 +1,8 @@
 ## Course Outcome 1 (CO1):
-- [1 .Familiarizing Text Editor, IDE, Code Analysis Tools etc // Use any IDE like PyCharm, PyDev..](https://github.com/j3rry01v/MCA/blob/main/Semester-01/Python-Programming-Lab/Course-Outcome-1-(CO1)/01-Familiarizing-Text-Editor/ide.txt)
+- 📄[1 .Familiarizing Text Editor, IDE, Code Analysis Tools etc // Use any IDE like PyCharm, PyDev..](https://github.com/j3rry01v/MCA/blob/main/Semester-01/Python-Programming-Lab/Course-Outcome-1-(CO1)/01-Familiarizing-Text-Editor/ide.txt)
 
 
-- [2. Display future leap years from current year to a final year entered by user.](https://github.com/j3rry01v/MCA/blob/main/Semester-01/Python-Programming-Lab/Course-Outcome-1-(CO1)/02-Leap-Year/Leap_year.py)
+- 📄[2. Display future leap years from current year to a final year entered by user.](https://github.com/j3rry01v/MCA/blob/main/Semester-01/Python-Programming-Lab/Course-Outcome-1-(CO1)/02-Leap-Year/Leap_year.py)
 
 
 - [3.List comprehensions:

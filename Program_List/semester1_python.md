@@ -1,4 +1,4 @@
-##Course Outcome 1 (CO1):
+## Course Outcome 1 (CO1):
 - [1 .Familiarizing Text Editor, IDE, Code Analysis Tools etc // Use any IDE like PyCharm, PyDev..](https://github.com/j3rry01v/MCA/blob/main/Semester-01/Python-Programming-Lab/Course-Outcome-1-(CO1)/01-Familiarizing-Text-Editor/ide.txt)
 
 

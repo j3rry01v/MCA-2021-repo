@@ -51,7 +51,7 @@ This repository is designed according to the degree requirements of course outco
 # Curriculum
 
 ## Semester I
-  - ###[PROGRAMMING LAB](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Python-Programming-Lab)
+  - ### [PROGRAMMING LAB](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Python-Programming-Lab)
     - [📁Course Outcome 1 (CO1)]()
     - [📁Course Outcome 2 (CO2)]()
     - [📁Course Outcome 3 (CO3)]()
@@ -60,7 +60,7 @@ This repository is designed according to the degree requirements of course outco
       <br>
       <br>
 
-   - ###[WEB PROGRAMMING LAB](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Web-Programming-Lab)
+   - ### [WEB PROGRAMMING LAB](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Web-Programming-Lab)
      - [📁Course Outcome 1 (CO1)]()
      - [📁Course Outcome 2 (CO2)]()
      - [📁Course Outcome 3 (CO3)]()
@@ -69,7 +69,7 @@ This repository is designed according to the degree requirements of course outco
       <br>
       <br>
        
-  - ###[DATA STRUCTURES LAB ](#introduction-to-programming)
+  - ### [DATA STRUCTURES LAB ](#introduction-to-programming)
      - 📁[STACK USING ARRAY]()
      - 📁[QUEUE USING ARRAY]()
      - 📁[QUEUE USING LINKED LIST]()

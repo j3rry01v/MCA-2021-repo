@@ -26,7 +26,8 @@
 - [Summary](#summary)
   
 - [Curriculum](#curriculum)
-- [Code of conduct](#code-of-conduct)
+
+[comment]: <> (- [Code of conduct]&#40;#code-of-conduct&#41;)
 
 [comment]: <> (- [Team]&#40;#team&#41;)
 
@@ -51,7 +52,7 @@ This repository is designed according to the degree requirements of course outco
 # Curriculum
 
 ## Semester I
-  - ### [PROGRAMMING LAB 🖥](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Python-Programming-Lab)
+  - ### [PROGRAMMING LAB ](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Python-Programming-Lab)
     - [📁Course Outcome 1 (CO1)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co1-python.md)
     - [📁Course Outcome 2 (CO2)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co2-python.md)
     - [📁Course Outcome 3 (CO3)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co3-python.md)
@@ -60,45 +61,21 @@ This repository is designed according to the degree requirements of course outco
       <br>
       <br>
 
-   - ### [WEB PROGRAMMING LAB 🖥](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Web-Programming-Lab)
-     - [📁Course Outcome 1 (CO1)]()
-     - [📁Course Outcome 2 (CO2)]()
-     - [📁Course Outcome 3 (CO3)]()
-     - [📁Course Outcome 4 (CO4)]()
-     - [📁Course Outcome 5 (CO5)]()
+   - ### [WEB PROGRAMMING LAB ](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Web-Programming-Lab)
+     - [📁Course Outcome 1 (CO1)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co1-web.md)
+     - [📁Course Outcome 2 (CO2)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co2-web.md)
+     - [📁Course Outcome 3 (CO3)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co4-web.md)
+     - [📁Course Outcome 4 (CO4)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co4-web.md)
+     - [📁Course Outcome 5 (CO5)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co5-web.md)
       <br>
       <br>
        
-  - ### 🖥[DATA STRUCTURES LAB 🖥 ](#introduction-to-programming)
-     - 📁[STACK USING ARRAY]()
-     - 📁[QUEUE USING ARRAY]()
-     - 📁[QUEUE USING LINKED LIST]()
-     - 📁[QUEUE USING STACK]()
-     - 📁[MERGE 2 SORTED ARRAY]()
-     - 📁[LINEAR SEARCH]()
-     - 📁[BINARY SEARCH]()
-     - 📁[BINARY SEARCH TREE]()
-     - 📁[CIRCULAR QUEUE]()
-     - 📁[DOUBLY LINKED LIST]()
-     - 📁[SINGLY LINKED LIST]()
-      - 📁[AVL TREE]()
-      - 📁[B-TREE]()
-       - 📁[BREADTH FIRST SEARCH]()
-      -  📁[DEPTH FIRST SEARCH]()
-      -  📁[DIJKSTRAS ALGORITHM]()
-      -  📁[KRUSKALS ALGORITHM]()
-       - 📁[PRIMS ALGORITHM]()
-    - 📁[RED-BLACK TREE]()
-    -  📁[TOPOLOGICAL SORTING]()
+  - ### [DATA STRUCTURES LAB  ](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab)
+      - [📁List of Programs ]()
 
          
          
 
 
   
-# Team
 
-* **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
-* **[hanjiexi](https://github.com/hanjiexi)**: lead technical maintainer
-* **[waciumawanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
-* **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**

@@ -1,50 +1,22 @@
-## Advanced Data Structures 
+- 📁[STACK USING ARRAY](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Stack-using-ARRAY)
 
-- [STACK USING ARRAY]()
-
-- [STACK USING LINKED LIST]()
-
-- [QUEUE USING ARRAY]()
-
-- [QUEUE USING LINKED LIST]()
-
-- [QUEUE USING STACK]()
-
-- [MERGE 2 SORTED ARRAY]()
-
-- [LINEAR SEARCH]()
-
-- [BINARY SEARCH]()
-
-- [BINARY SEARCH TREE]()
-
-- [CIRCULAR QUEUE]()
-  
-- [DOUBLY LINKED LIST]()
-
-- [SINGLY LINKED LIST]()
-
-- [AVL TREE]()
-
-- [B-TREE]()
-
-- [BREADTH FIRST SEARCH]()
-
-- [DEPTH FIRST SEARCH]()
-
-- [DIJKSTRAS ALGORITHM]()
-
-- [KRUSKALS ALGORITHM]()
-
-- [PRIMS ALGORITHM]()
-
-- [RED-BLACK TREE]()
-
-- [TOPOLOGICAL SORTING]()
-
-
-
-
-
-
-
+- 📁[STACK USING LINKED LIST](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Stack-using-LINKED-LIST)
+- 📁[QUEUE USING ARRAY](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Queue-Using-ARRAY)
+- 📁[QUEUE USING LINKED LIST](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Queue-using-LINKED-LIST)
+- 📁[QUEUE USING STACK](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Queue-Using-STACK)
+- 📁[MERGE TWO SORTED ARRAY](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Merge-Sorted-ARRAYS)
+- 📁[LINEAR SEARCH](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Linear-Search)
+- 📁[BINARY SEARCH](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Binary-Search)
+- 📁[BINARY SEARCH TREE](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Binary-Search-Tree)
+- 📁[CIRCULAR QUEUE](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Circular-Queue-using-ARRAY)
+- 📁[DOUBLY LINKED LIST](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Doubly-LINKED-LIST)
+- 📁[SINGLY LINKED LIST](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Singly-LINKED-LIST)
+- 📁[AVL TREE](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/AVL-Tree)
+- 📁[B-TREE](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/B-Tree)
+- 📁[BREADTH FIRST SEARCH](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Breadth-First-Search)
+- 📁[DEPTH FIRST SEARCH](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Depth-First-Search)
+- 📁[DIJKSTRAS ALGORITHM](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Dijkstra’s-shortest-path)
+- 📁[KRUSKALS ALGORITHM](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Kruskal’s-Minimum-Spanning-Tree%20Algorithm%20)
+- 📁[PRIMS ALGORITHM](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Prim’s-minimum-cost-spanning-tree)
+- 📁[RED-BLACK TREE](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Red-Black-Tree)
+- 📁[TOPOLOGICAL SORTING](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab/Topological-Sort)

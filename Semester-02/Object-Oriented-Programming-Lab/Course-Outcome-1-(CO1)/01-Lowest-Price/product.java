@@ -1,29 +1,33 @@
 public class product {
-    String pcode;
-    String pname;
+    String code;
+    String name;
     int price;
 
-    public product(String pcode_get, String pname_get, int price_get) {
-        pcode = pcode_get;
-        pname = pname_get;
-        price = price_get;
+    public product(String product_code, String product_name, int product_price)
+    {
+        code = product_code;
+        name = product_name;
+        price = product_price;
     }
 
-    public int get_price() {
+     int price() 
+    {
         return price;
     }
 
-    public static void main(String[] args) {
-        product p_1 = new product("A123", "TV", 2);
-        product p_2 = new product("B123", "RADIO", 21);
-        product p_3 = new product("C123", "DVD", 3);
+    public static void main(String[] args)
+    {
+        product p1 = new product("", "TV", 2);
+        product p2 = new product("B123", "RADIO", 21);
+        product p3 = new product("C123", "DVD", 3);
 
-        if (p_1.price <= p_3.price && p_1.price <= p_2.price) 
-            System.out.println("Lowest product ID is  : " + p_1.pcode);
-        if (p_3.price <= p_1.price && p_3.price <= p_2.price) 
-            System.out.println("Lowest product ID is  : " + p_3.pcode);
-        if (p_2.price <= p_3.price && p_2.price <= p_1.price) 
-            System.out.println("Lowest product ID is  : " + p_2.pcode);
-
+        if (p1.price <= p3.price && p1.price <= p2.price) 
+        {
+            System.out.println("Lowest product ID is  : " + p1.code);
+        }
+        if (p3.price <= p1.price && p3.price <= p2.price) 
+            System.out.println("Lowest product ID is  : " + p3.code);
+        if (p2.price <= p3.price && p2.price <= p1.price) 
+            System.out.println("Lowest product ID is  : " + p2.code);
     }
 }

@@ -5,14 +5,14 @@
 - 📄[2. Display future leap years from current year to a final year entered by user.](https://github.com/j3rry01v/MCA/blob/main/Semester-01/Python-Programming-Lab/Course-Outcome-1-(CO1)/02-Leap-Year/Leap_year.py)
 
 
-- [3.List comprehensions:
+- 📃 [3.List comprehensions:
 (a) Generate positive list of numbers from a given list of integers
 (b) Square of N numbers
 (c) Form a list of vowels selected from a given word
 (d) List ordinal value of each element of a word (Hint: use ord() to get ordinal values) ](https://github.com/j3rry01v/MCA/blob/main/Semester-01/Python-Programming-Lab/Course-Outcome-1-(CO1)/03-List-Comprehensions/List_Operations.py)
 
 
-- [4. Count the occurrences of each word in a line of text.](https://github.com/j3rry01v/MCA/blob/main/Semester-01/Python-Programming-Lab/Course-Outcome-1-(CO1)/04-Occurrences-of-each-word/Occurences_Of_word_in_a_Text.py)
+- 📃 [4. Count the occurrences of each word in a line of text.](https://github.com/j3rry01v/MCA/blob/main/Semester-01/Python-Programming-Lab/Course-Outcome-1-(CO1)/04-Occurrences-of-each-word/Occurences_Of_word_in_a_Text.py)
 
 
 - [5. Prompt the user for a list of integers. For all values greater than 100, store ‘over’ instead. ](https://github.com/j3rry01v/MCA/blob/main/Semester-01/Python-Programming-Lab/Course-Outcome-1-(CO1)/05-Prompt-the-user-for-a-list-of-integers/List_of_Integers.py)

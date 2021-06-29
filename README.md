@@ -55,33 +55,35 @@ This repository is designed according to the degree requirements of course outco
 
 ## Semester I
   - ### [PROGRAMMING LAB ](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Python-Programming-Lab)
-    - [📁Course Outcome 1 (CO1)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co1-python.md)
-    - [📁Course Outcome 2 (CO2)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co2-python.md)
-    - [📁Course Outcome 3 (CO3)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co3-python.md)
-    - [📁Course Outcome 4 (CO4)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co4-python.md)
-    - [📁Course Outcome 5 (CO5)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co5-python.md)
+    - [📁 Course Outcome 1 (CO1)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co1-python.md)
+    - [📁 Course Outcome 2 (CO2)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co2-python.md)
+    - [📁 Course Outcome 3 (CO3)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co3-python.md)
+    - [📁 Course Outcome 4 (CO4)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co4-python.md)
+    - [📁 Course Outcome 5 (CO5)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co5-python.md)
       <br>
       <br>
 
    - ### [WEB PROGRAMMING LAB ](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Web-Programming-Lab)
-     - [📁Course Outcome 1 (CO1)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co1-web.md)
-     - [📁Course Outcome 2 (CO2)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co2-web.md)
-     - [📁Course Outcome 3 (CO3)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co3-web.md)
-     - [📁Course Outcome 4 (CO4)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co4-web.md)
-     - [📁Course Outcome 5 (CO5)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co5-web.md)
+     - [📁 Course Outcome 1 (CO1)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co1-web.md)
+     - [📁 Course Outcome 2 (CO2)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co2-web.md)
+     - [📁 Course Outcome 3 (CO3)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co3-web.md)
+     - [📁 Course Outcome 4 (CO4)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co4-web.md)
+     - [📁 Course Outcome 5 (CO5)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Web/co5-web.md)
       <br>
       <br>
        
   - ### [DATA STRUCTURES LAB  ](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Data-Structures-Lab)
-      - [📁List of Programs ](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Ads/ADS.md)
+      - [📁 List of Programs ](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Ads/ADS.md)
         
 ## Semester II
-- ### [OBJECT ORIENTED PROGRAMMING LAB ]()
-    - [📁Course Outcome 1 (CO1)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/OOP/co1-oop.md)
-    - [📁Course Outcome 2 (CO2)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/OOP/co2-oop.md)
-    - [📁Course Outcome 3 (CO3)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/OOP/co3-oop.md)
-    - [📁Course Outcome 4 (CO4)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/OOP/co4-oop.md)
-    - [📁Course Outcome 5 (CO5)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/OOP/co5-oop.md)
+- ### [OBJECT ORIENTED PROGRAMMING LAB ](https://github.com/j3rry01v/MCA/tree/main/Semester-02/Object-Oriented-Programming-Lab)
+    - [📁 Course Outcome 1 (CO1)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/OOP/co1-oop.md)
+    - [📁 Course Outcome 2 (CO2)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/OOP/co2-oop.md)
+    - [📁 Course Outcome 3 (CO3)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/OOP/co3-oop.md)
+    - [📁 Course Outcome 4 (CO4)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/OOP/co4-oop.md)
+    - [📁 Course Outcome 5 (CO5)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/OOP/co5-oop.md)
+    - [📁 User Input]()
+    - [📁 Additional Programs ]()
 
 
   

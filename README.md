@@ -75,11 +75,11 @@ This repository is designed according to the degree requirements of course outco
         
 ## Semester II
 - ### [OBJECT ORIENTED PROGRAMMING LAB ]()
-    - [📁Course Outcome 1 (CO1)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co1-oop.md)
-    - [📁Course Outcome 2 (CO2)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co2-oop.md)
-    - [📁Course Outcome 3 (CO3)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co3-oop.md)
-    - [📁Course Outcome 4 (CO4)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co4-oop.md)
-    - [📁Course Outcome 5 (CO5)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem01/Python/co5-oop.md)
+    - [📁Course Outcome 1 (CO1)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/Python/co1-oop.md)
+    - [📁Course Outcome 2 (CO2)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/Python/co2-oop.md)
+    - [📁Course Outcome 3 (CO3)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/Python/co3-oop.md)
+    - [📁Course Outcome 4 (CO4)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/Python/co4-oop.md)
+    - [📁Course Outcome 5 (CO5)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/Python/co5-oop.md)
 
 
   

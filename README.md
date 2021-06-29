@@ -26,6 +26,7 @@
 - [Summary](#summary)
   
 - [Curriculum](#curriculum)
+  - [Semester I](#semester-i)
 
 [comment]: <> (- [Code of conduct]&#40;#code-of-conduct&#41;)
 

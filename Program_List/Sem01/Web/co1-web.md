@@ -1,4 +1,4 @@
-## Course Outcome 2 (CO2):
+## Course Outcome 1 (CO1):
 
 - 📃[1. Model a simple HTML file to demonstrate the use of different tags.](https://github.com/j3rry01v/MCA/tree/main/Semester-01/Web-Programming-Lab/Course-Outcome-1-(CO1)/01-Simple-HTML)
 

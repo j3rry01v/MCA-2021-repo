@@ -26,7 +26,7 @@
 - [Summary](#summary)
   
 - [Curriculum](#curriculum)
-  - [Semester I](#semester-i)
+  - [Semester I](https://github.com/j3rry01v/MCA#semester-i)
 
 [comment]: <> (- [Code of conduct]&#40;#code-of-conduct&#41;)
 

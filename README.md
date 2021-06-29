@@ -23,10 +23,11 @@
 
 # Contents
 
-- [Summary](#summary)
+- ### [Summary](#summary)
   
-- [Curriculum](#curriculum)
-  - [Semester I](https://github.com/j3rry01v/MCA#semester-i)
+- ### [Curriculum](#curriculum)
+  - #### [Semester I](https://github.com/j3rry01v/MCA#semester-i)
+  - #### [Semester II](https://github.com/j3rry01v/MCA#semester-ii)
 
 [comment]: <> (- [Code of conduct]&#40;#code-of-conduct&#41;)
 

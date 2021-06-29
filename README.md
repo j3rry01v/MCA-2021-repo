@@ -82,8 +82,8 @@ This repository is designed according to the degree requirements of course outco
     - [📁 Course Outcome 3 (CO3)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/OOP/co3-oop.md)
     - [📁 Course Outcome 4 (CO4)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/OOP/co4-oop.md)
     - [📁 Course Outcome 5 (CO5)](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/OOP/co5-oop.md)
-    - [📁 User Input]()
-    - [📁 Additional Programs ]()
+    - [📁 User Input](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/OOP/user-input-oop.md)
+    - [📁 Additional Programs ](https://github.com/j3rry01v/MCA/blob/main/Program_List/Sem02/OOP/additional-oop.md)
 
 
   

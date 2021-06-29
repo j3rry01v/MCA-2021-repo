@@ -27,7 +27,7 @@
   
 - ### [Curriculum](#curriculum)
   - #### [Semester I](https://github.com/j3rry01v/MCA#semester-i)
-  - #### [Semester II](https://github.com/j3rry01v/MCA#semester-ii)
+  - #### [Semester II](https://github.com/j3rry01v/MCA#semester-ii-1)
 
 [comment]: <> (- [Code of conduct]&#40;#code-of-conduct&#41;)
 
